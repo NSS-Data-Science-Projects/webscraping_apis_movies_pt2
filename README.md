@@ -43,5 +43,3 @@ Begin by understanding your dataset as a whole. Look for trends, outliers, and r
     * Avoid screenshots of code or raw output. Thik of your audience as studio executives or film analysts, not programmers.
 
     Your presentation should be done using PowerPoint/Google Slides or other presentation software.
-
-    Presentations will take place on Tuesday, 11/25 at noon.
