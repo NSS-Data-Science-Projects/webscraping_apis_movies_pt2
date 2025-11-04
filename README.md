@@ -34,7 +34,7 @@ Begin by understanding your dataset as a whole. Look for trends, outliers, and r
     Deliverables:  
     * At least one regression model 
 
-3. **Persentation**  
+3. **Presentation**  
     Prepare a 10-12 minute presentation of your findings.  
     Your presentation should:  
     * Focus on findings and insights, not code.  
