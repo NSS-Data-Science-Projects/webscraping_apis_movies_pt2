@@ -17,7 +17,7 @@ Begin by understanding your dataset as a whole. Look for trends, outliers, and r
     Examples of questions to explore:  
     * How popular is each genre over the last decade?
     * How do budget and revenue vary by year or by genre?  
-    * What is the average profit margin (revenue - budge) across genres or years?  
+    * What is the average profit margin (revenue - budget) across genres or years?  
     * How do movie ratings (vote average) relate to box-office performance?  
     * Adjust all financial metrics (budget and revenue) for inflation to 2024 dollars using CPI data.
 
@@ -28,9 +28,9 @@ Begin by understanding your dataset as a whole. Look for trends, outliers, and r
     Use your merged dataset to examine whether recognition and awards are associated with better performance.  
     Investigate:  
     * Do Best Picture nominees or winners tend to earn higher box-office revenue than non-nominated movies?  
-    * Do movies featuring a Best Actor or Best Actress winner in their cast tend to perform better?  
-    * Are certain genres or types of roles more common among award-winning films?  
-
+    * Are certain genres or types of roles more common among award-winning films?
+    * (If you did the optional scrape) Do movies featuring a Best Actor or Best Actress winner in their cast tend to perform better?  
+  
     Deliverables:  
     * At least one regression model 
 
@@ -40,6 +40,6 @@ Begin by understanding your dataset as a whole. Look for trends, outliers, and r
     * Focus on findings and insights, not code.  
     * Tell a clear story: the questions you asked and what you found.  
     * Include visuals such as charts, summary tables, or model results.
-    * Avoid screenshots of code or raw output. Thik of your audience as studio executives or film analysts, not programmers.
+    * Avoid screenshots of code or raw output. Think of your audience as studio executives or film analysts, not programmers.
 
     Your presentation should be done using PowerPoint/Google Slides or other presentation software.
